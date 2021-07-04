@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end and backend using javascript
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me on opadotunoluwaseun@gmail.com
+- 📫 How to reach me on opadotunoluwaseun@yahoo.com
 
 <!---
 opadotun-taiwo/opadotun-taiwo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
