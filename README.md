@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @opadotun-taiwo
-- 👀 I’m interested in front end using react and backend using FLASK python micro service
+- 👀 I’m interested in software engineer career
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me on seun177481@gmail.com
