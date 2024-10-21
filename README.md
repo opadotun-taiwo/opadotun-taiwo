@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @opadotun-taiwo
 - 👀 I’m interested in software engineering career
-- 🌱 I’m currently learning react
+- 🌱 Proficient with MERN stack technologies
   - 💞️ I’m looking to collaborate on software projects
 
 <!---
